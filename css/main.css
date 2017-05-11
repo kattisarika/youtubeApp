@@ -24,7 +24,7 @@ body {
 }
 
 header {
-    background: url('/images/youtube.png') no-repeat;
+    background: url('../images/youtube.png') no-repeat;
     width: 120px;
     height: 100px;
     display: block;
